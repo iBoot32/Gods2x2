@@ -5,7 +5,7 @@ This program first brute-forces a solution to the first layer of the 2x2 cube.
 From there, it permutes the top corners using a single commutator. If necessary, the program will apply a singular algorithm to fix the back two corners on the top.
 Then, the program orients the top corners using a single commutator, solving the cube.
 
-~~~
+---
 
 The goal of this project was the solve a 2x2 cube using the least amount of algorithms as we can, instead relying on brute-force whenever possible, only resorting to commutators and (at worst) a singular algorithm when absolutely necessary.
 
@@ -15,7 +15,7 @@ However if you're looking for speed, check out my more efficent algorithm, CubeB
 Enjoy,
 iBoot32
 
-~~~
+---
 
 License:
 
