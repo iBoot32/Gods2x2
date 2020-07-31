@@ -1,0 +1,9 @@
+C:\Users\yello\Desktop\Gods2x2\Gods2x2\bin\Release\Gods2x2.exe.config
+C:\Users\yello\Desktop\Gods2x2\Gods2x2\bin\Release\Gods2x2.exe
+C:\Users\yello\Desktop\Gods2x2\Gods2x2\bin\Release\Gods2x2.pdb
+C:\Users\yello\Desktop\Gods2x2\Gods2x2\obj\Release\Gods2x2.Form1.resources
+C:\Users\yello\Desktop\Gods2x2\Gods2x2\obj\Release\Gods2x2.Properties.Resources.resources
+C:\Users\yello\Desktop\Gods2x2\Gods2x2\obj\Release\Gods2x2.csproj.GenerateResource.cache
+C:\Users\yello\Desktop\Gods2x2\Gods2x2\obj\Release\Gods2x2.csproj.CoreCompileInputs.cache
+C:\Users\yello\Desktop\Gods2x2\Gods2x2\obj\Release\Gods2x2.exe
+C:\Users\yello\Desktop\Gods2x2\Gods2x2\obj\Release\Gods2x2.pdb
