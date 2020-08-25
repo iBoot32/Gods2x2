@@ -16,7 +16,7 @@ Enjoy,
 iBoot32
 
 # How to use
-`Gods2x2.exe <cubestring>`
+Open the GUI and enter a cubestring.
 
 ## What is a cubestring?
 A cubestring is used in both cube-solving algorithms I've written. Simply put, it's a way for my algorithm to know what your cube looks like, without visually showing a cube.
