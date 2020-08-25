@@ -15,6 +15,25 @@ However if you're looking for speed, check out my more efficent algorithm, CubeB
 Enjoy,
 iBoot32
 
+# How to use
+`Gods2x2.exe <cubestring>`
+
+## What is a cubestring?
+A cubestring is used in both cube-solving algorithms I've written. Simply put, it's a way for my algorithm to know what your cube looks like, without visually showing a cube.
+For a 2x2 cube, a cubestring is a string of 24 characters, each character representing the color of a specific sticker on the cube.
+
+## How to format a cubestring?
+
+Simply put, all you do is enter the colors of each piece on the cube with a defined order, which is as follows:
+Pieces are read in this order: 
+
+Start reading pieces with the top, back, left corner. Whenever you are reading a piece on the top face, you read the piece's sticker colors `top`, `left/right`, and then `back/front`. 
+Going clockwise, read the next piece on the top face of the cube (in the same way).
+After reading all the pieces on the top face, go to the bottom and do the same thing (starting with bottom, back, left), but read the colors `bottom`, `left/right`, and then `back/front`.
+
+For example, the moves `R U D F B` on a 2x2 produces the cubestring: `BWOYBRYGRBYOGYOWGRWBRGWO`
+
+
 ---
 
 License:
